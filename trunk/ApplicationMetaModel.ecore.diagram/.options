@@ -1,0 +1,7 @@
+# Tracing options for the ApplicationMetaModel.ecore.diagram plug-in
+
+# Common issues
+ApplicationMetaModel.ecore.diagram/debug=false
+
+# Visual IDs
+ApplicationMetaModel.ecore.diagram/debug/visualID=false

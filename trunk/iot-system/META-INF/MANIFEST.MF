@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: iot-system;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-ClassPath: .,
+ classes12.jar
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: RFID,
+ RFID.impl,
+ RFID.util
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.emf.ecore;visibility:=reexport,
+ cn.edu.pku.sei.ra.wrapping.common;bundle-version="0.1.0"
+Bundle-ActivationPolicy: lazy

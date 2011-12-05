@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_aeND4IKTEeCMA-QufCpmgg" type="EcoreTools" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_aeWN0IKTEeCMA-QufCpmgg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_aeWN04KTEeCMA-QufCpmgg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_aeWN1IKTEeCMA-QufCpmgg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_aeWN3IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//RFIDSystem/name"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN3YKTEeCMA-QufCpmgg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aeWN1YKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aeWN1oKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aeWN14KTEeCMA-QufCpmgg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aeWN2IKTEeCMA-QufCpmgg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aeWN2YKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aeWN2oKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aeWN24KTEeCMA-QufCpmgg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_aeWN0YKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="RFIDSystem.ecore#//RFIDSystem"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aeWN0oKTEeCMA-QufCpmgg" x="340" y="60"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_aeWN3oKTEeCMA-QufCpmgg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_aeWN4YKTEeCMA-QufCpmgg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_aeWN4oKTEeCMA-QufCpmgg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_aeWN6oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Tag/tid"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN64KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aeWN7IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Tag/semaphore"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN7YKTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aeWN7oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Tag/power"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN74KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aeWN8IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Tag/period"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN8YKTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aeWN8oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Tag/lowPower"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN84KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aeWN9IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Tag/lastReciveTime"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWN9YKTEeCMA-QufCpmgg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aeWN44KTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aeWN5IKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aeWN5YKTEeCMA-QufCpmgg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aeWN5oKTEeCMA-QufCpmgg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aeWN54KTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aeWN6IKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aeWN6YKTEeCMA-QufCpmgg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_aeWN34KTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="RFIDSystem.ecore#//Tag"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aeWN4IKTEeCMA-QufCpmgg" x="20" y="215"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_aeWN9oKTEeCMA-QufCpmgg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_aeWN-YKTEeCMA-QufCpmgg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_aeWN-oKTEeCMA-QufCpmgg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_aeWOAoKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/rid"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aeWOA4KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-0IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/baudRate"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-0YKTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-0oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/powerLevel"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-04KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-1IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/channel"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-1YKTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-1oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/commandDuration"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-14KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-2IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/commandInterval"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-2YKTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-2oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Reader/minSensitity"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-24KTEeCMA-QufCpmgg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aeWN-4KTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aeWN_IKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aeWN_YKTEeCMA-QufCpmgg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aeWN_oKTEeCMA-QufCpmgg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aeWN_4KTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aeWOAIKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aeWOAYKTEeCMA-QufCpmgg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_aeWN94KTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="RFIDSystem.ecore#//Reader"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aeWN-IKTEeCMA-QufCpmgg" x="265" y="200"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_aef-3IKTEeCMA-QufCpmgg" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_aef-34KTEeCMA-QufCpmgg" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_aef-4IKTEeCMA-QufCpmgg" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_aef-6IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Sensor/sid"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-6YKTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-6oKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Sensor/temperature"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-64KTEeCMA-QufCpmgg"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_aef-7IKTEeCMA-QufCpmgg" type="2001">
+        <element xmi:type="ecore:EAttribute" href="RFIDSystem.ecore#//Sensor/brightness"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-7YKTEeCMA-QufCpmgg"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aef-4YKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aef-4oKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aef-44KTEeCMA-QufCpmgg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef-5IKTEeCMA-QufCpmgg" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_aef-5YKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_aef-5oKTEeCMA-QufCpmgg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_aef-54KTEeCMA-QufCpmgg"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_aef-3YKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="RFIDSystem.ecore#//Sensor"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_aef-3oKTEeCMA-QufCpmgg" x="565" y="245"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_aeND4YKTEeCMA-QufCpmgg"/>
+  <element xmi:type="ecore:EPackage" href="RFIDSystem.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_aef-7oKTEeCMA-QufCpmgg" type="3002" source="_aeWN0IKTEeCMA-QufCpmgg" target="_aeWN9oKTEeCMA-QufCpmgg">
+    <children xmi:type="notation:Node" xmi:id="_aef-8oKTEeCMA-QufCpmgg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-84KTEeCMA-QufCpmgg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef-9IKTEeCMA-QufCpmgg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-9YKTEeCMA-QufCpmgg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_aef-74KTEeCMA-QufCpmgg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_aef-8IKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="RFIDSystem.ecore#//RFIDSystem/reader"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aef-8YKTEeCMA-QufCpmgg" points="[0, 0, 138, 60]$[-138, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qwoKTEeCMA-QufCpmgg" id="(0.16666666666666666,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qw4KTEeCMA-QufCpmgg" id="(0.6648351648351648,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_aef-9oKTEeCMA-QufCpmgg" type="3002" source="_aeWN0IKTEeCMA-QufCpmgg" target="_aef-3IKTEeCMA-QufCpmgg">
+    <children xmi:type="notation:Node" xmi:id="_aef--oKTEeCMA-QufCpmgg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef--4KTEeCMA-QufCpmgg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef-_IKTEeCMA-QufCpmgg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef-_YKTEeCMA-QufCpmgg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_aef-94KTEeCMA-QufCpmgg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_aef--IKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="RFIDSystem.ecore#//RFIDSystem/sensor"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aef--YKTEeCMA-QufCpmgg" points="[0, 0, 0, 136]$[0, -136, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qxIKTEeCMA-QufCpmgg" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qxYKTEeCMA-QufCpmgg" id="(0.33727810650887574,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_aef-_oKTEeCMA-QufCpmgg" type="3002" source="_aeWN3oKTEeCMA-QufCpmgg" target="_aeWN9oKTEeCMA-QufCpmgg">
+    <children xmi:type="notation:Node" xmi:id="_aef_AoKTEeCMA-QufCpmgg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_A4KTEeCMA-QufCpmgg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef_BIKTEeCMA-QufCpmgg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_BYKTEeCMA-QufCpmgg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_aef-_4KTEeCMA-QufCpmgg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_aef_AIKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="RFIDSystem.ecore#//Tag/Reader"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aef_AYKTEeCMA-QufCpmgg" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qxoKTEeCMA-QufCpmgg" id="(0.49714285714285716,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qx4KTEeCMA-QufCpmgg" id="(0.5,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_aef_BoKTEeCMA-QufCpmgg" type="3002" source="_aeWN9oKTEeCMA-QufCpmgg" target="_aeWN0IKTEeCMA-QufCpmgg">
+    <children xmi:type="notation:Node" xmi:id="_aef_CoKTEeCMA-QufCpmgg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_C4KTEeCMA-QufCpmgg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef_DIKTEeCMA-QufCpmgg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_DYKTEeCMA-QufCpmgg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_aef_B4KTEeCMA-QufCpmgg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_aef_CIKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="RFIDSystem.ecore#//Reader/system"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aef_CYKTEeCMA-QufCpmgg" points="[0, 0, -128, -60]$[128, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qyIKTEeCMA-QufCpmgg" id="(0.8296703296703297,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qyYKTEeCMA-QufCpmgg" id="(0.3333333333333333,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_aef_DoKTEeCMA-QufCpmgg" type="3002" source="_aeWN9oKTEeCMA-QufCpmgg" target="_aeWN3oKTEeCMA-QufCpmgg">
+    <children xmi:type="notation:Node" xmi:id="_aef_EoKTEeCMA-QufCpmgg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_E4KTEeCMA-QufCpmgg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef_FIKTEeCMA-QufCpmgg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_FYKTEeCMA-QufCpmgg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_aef_D4KTEeCMA-QufCpmgg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_aef_EIKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="RFIDSystem.ecore#//Reader/tag"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aef_EYKTEeCMA-QufCpmgg" points="[0, 0, 0, -60]$[0, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qyoKTEeCMA-QufCpmgg" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qy4KTEeCMA-QufCpmgg" id="(0.49714285714285716,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_aef_FoKTEeCMA-QufCpmgg" type="3002" source="_aef-3IKTEeCMA-QufCpmgg" target="_aeWN0IKTEeCMA-QufCpmgg">
+    <children xmi:type="notation:Node" xmi:id="_aef_GoKTEeCMA-QufCpmgg" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_G4KTEeCMA-QufCpmgg" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_aef_HIKTEeCMA-QufCpmgg" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_aef_HYKTEeCMA-QufCpmgg" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_aef_F4KTEeCMA-QufCpmgg" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_aef_GIKTEeCMA-QufCpmgg" fontColor="4210752" fontName="微软雅黑" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="RFIDSystem.ecore#//Sensor/System"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_aef_GYKTEeCMA-QufCpmgg" points="[0, 0, 0, -136]$[0, 136, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qwIKTEeCMA-QufCpmgg" id="(0.33727810650887574,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_ae8qwYKTEeCMA-QufCpmgg" id="(0.5,0.0)"/>
+  </edges>
+</notation:Diagram>
